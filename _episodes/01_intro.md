@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Welcome
-lesson: 1
+order: 1
 length: 10
 ---
 
