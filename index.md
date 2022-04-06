@@ -34,7 +34,7 @@ If you have registered for this course you can find the instructions for setting
 
 ## Start course
 
-If you are unable to attend any of the dates above the [notes for these course are available here](https://uniexeterrse.github.io/workshop-template-test/01_intro/) and are freely available to work through in your own time. Please note that you will need to have completed the set up instructions above.
+If you are unable to attend any of the dates above the [notes for these course are available here](https://uniexeterrse.github.io/workshop-template-test/contents.html) and are freely available to work through in your own time. Please note that you will need to have completed the set up instructions above.
 
 ## Acknowledgements
 
