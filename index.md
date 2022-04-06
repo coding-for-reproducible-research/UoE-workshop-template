@@ -30,7 +30,7 @@ Registration for this course is handled by [University of Exeter Researcher Deve
 
 ## Set-up instructions for attendees
 
-If you have registered for this course you can find the instructions for setting up your computer here. 
+If you have registered for this course you can find the [instructions for setting up your computer here.](https://uniexeterrse.github.io/workshop-template-test/setup.html) 
 
 ## Start course
 
