@@ -4,11 +4,6 @@ title: Course Information
 ---
 
 
-# Workshop Name
-
-insert tagline
-
-
 ## Overview
 
 insert paragraph of description
