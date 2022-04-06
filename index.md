@@ -6,20 +6,21 @@ title: Course Information
 
 ## Overview
 
-insert paragraph of description
+insert description paragraph
 
 ## This course will cover:  
 
-- Bullet point leraning objectives
+- Bullet point learning objectives
 
 ## Workshop Format
 
 This a hybrid workshop run over XX sessions. The schedule can be found here. 
 
 ## Upcoming course dates
+
 | Dates | Time  | Venue | Sign up link |
-|--|--|
-|  |  |
+|--- |--- |--- | --- | --- | 
+|  |  | | | |
 
 Registration for this course is handled by [University of Exeter Researcher Development](https://www.exeter.ac.uk/research/doctoralcollege/early-career-researchers/traininganddevelopment/rdprogramme/)
 
@@ -29,7 +30,7 @@ If you have registered for this course you can find the [instructions for settin
 
 ## Start course
 
-If you are unable to attend any of the dates above the [notes for these course are available here](https://uniexeterrse.github.io/workshop-template-test/contents.html) and are freely available to work through in your own time. Please note that you will need to have completed the set up instructions above.
+If you are unable to attend any of the dates above the [notes for this course are available here](https://uniexeterrse.github.io/workshop-template-test/contents.html) and are freely available to work through in your own time. Please note that you will need to have completed the set up instructions above.
 
 ## Acknowledgements
 
