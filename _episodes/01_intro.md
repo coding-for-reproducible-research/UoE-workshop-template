@@ -6,4 +6,6 @@ length: 10
 toc: true
 ---
 
-## Welcome to course
+## Welcome to workshop
+
+This workshop will be delivered in the following methods....
