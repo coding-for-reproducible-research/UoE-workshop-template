@@ -1,6 +1,6 @@
 ---
-title: Welcome
 layout: page
+title: Welcome
 lesson: 1
 ---
 
