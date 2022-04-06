@@ -5,7 +5,7 @@ developers: [A name]
 description: One sentence description of workshop.
 n_sessions: 3
 prereq: NA
-twitter_username: @eilis_hannon
+
 
 # Specify that things in the episodes collection should be output.
 collections:
