@@ -9,11 +9,13 @@ title: Course Information
 insert tagline
 
 
-## Description
+## Overview
 
 insert paragraph of description
 
-This course is brought to you by the University of Exeter Research Software Engineering Group, [University of Exeter Institute of Data Science and Artificial Intelligence](https://www.exeter.ac.uk/research/idsai/), [University of Exeter Researcher Development](https://www.exeter.ac.uk/research/doctoralcollege/early-career-researchers/traininganddevelopment/rdprogramme/) and the [University of Exeter Doctoral College](https://www.exeter.ac.uk/research/doctoralcollege/).
+## This course will cover:  
+
+- Bullet point leraning objectives
 
 ## Workshop Format
 
@@ -33,3 +35,7 @@ If you have registered for this course you can find the instructions for setting
 ## Start course
 
 If you are unable to attend any of the dates above the [notes for these course are available here](https://uniexeterrse.github.io/workshop-template-test/01_intro/) and are freely available to work through in your own time. Please note that you will need to have completed the set up instructions above.
+
+## Acknowledgements
+
+This course was adapted from XXX and is brought to you by the University of Exeter Research Software Engineering Group, [University of Exeter Institute of Data Science and Artificial Intelligence](https://www.exeter.ac.uk/research/idsai/), [University of Exeter Researcher Development](https://www.exeter.ac.uk/research/doctoralcollege/early-career-researchers/traininganddevelopment/rdprogramme/) and the [University of Exeter Doctoral College](https://www.exeter.ac.uk/research/doctoralcollege/).
