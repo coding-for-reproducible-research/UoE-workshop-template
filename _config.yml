@@ -5,6 +5,7 @@ developers: [A name]
 description: One sentence description of workshop.
 n_sessions: 3
 prereq: NA
+twitter_username: @eilis_hannon
 
 # Build settings
 theme: jekyll-theme-slate
