@@ -19,3 +19,5 @@ Workshops are organised into 2-3 hour sessions of learning activity, where a wor
 ## Acknowledgements
 
 This repository is adapted from the [UKRN workshop template](https://github.com/UKRN-Open-Research/open-code-workshop-template) which itself was adapted from [The Carpentries' template](https://github.com/carpentries/workshop-template) for creating websites for workshops.
+
+This template was developed with help from this [tutorial](https://github.com/evanwill/go-go-ghpages).
