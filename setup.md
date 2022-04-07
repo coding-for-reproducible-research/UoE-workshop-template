@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: info_page
 title: Installation instructions
 ---
 
