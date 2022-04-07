@@ -246,6 +246,10 @@ td {
   border: 1px solid #373737;
  }
 
+tr:nth-child(even) {
+  background-color: #D1CECE;
+}
+
 form {
   background: #f2f2f2;
   padding: 20px;
