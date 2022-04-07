@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: info_page
 title: Workshop contents
 ---
 
@@ -11,4 +11,3 @@ The material for this workshop is structured in the following lessons which may 
 {% include toc.html %}
 </ol>
 
-[Workshop home page](https://uniexeterrse.github.io/workshop-template-test/)
