@@ -6,7 +6,7 @@ title: Course Information
 
 ## Overview
 
-insert description paragraph
+Insert description paragraph
 
 ## This course will cover:  
 
@@ -14,17 +14,17 @@ insert description paragraph
 
 ## Pre-requisite knowledge
 
-Specify as either esential or preferable, and try to relate to courses we provide and their learning objectives.
+Specify as either essential or preferable, and try to relate to courses we provide and their learning objectives.
 
 ## Workshop Format
 
-This a hybrid workshop run over XX sessions. The schedule can be found here. 
+This a hybrid workshop run over XX sessions. The [schedule can be found here](https://uniexeterrse.github.io/UoE-workshop-template/schedule.html). 
 
 ## Upcoming course dates
 
 | Dates | Time  | Venue | Sign up link |
 |--- |--- |--- | --- |
-|  |  | | |
+| TBC |  | | |
 
 Registration for this course is handled by [University of Exeter Researcher Development](https://www.exeter.ac.uk/research/doctoralcollege/early-career-researchers/traininganddevelopment/rdprogramme/)
 
