@@ -9,6 +9,7 @@
 
 {% seo %}
     {% include head-custom.html %}
+    {% include prev_next_navbar.html %}
   </head>
 
   <body>
@@ -27,10 +28,11 @@
         {{ content }}
       </section>
     </div>
-{% include prev_next_navbar.html %}
+
     <!-- FOOTER  -->
     <div id="footer_wrap" class="outer">
       <footer class="inner">
+        {% include prev_next_navbar.html %}
         {% if site.github.is_project_page %}
         <p class="copyright">Workshop maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
