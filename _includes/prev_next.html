@@ -3,11 +3,11 @@
 {% for node in sorted_pages %}
   {% if page.url == node.url %}
     {% unless forloop.first %} 
-	<button name="button" onclick="{{ site.baseurl }}{{prevpage.url}}">{{prevpage.title}}</button>
+	<button name="button" onclick="document.location='"{{ site.baseurl }}{{prevpage.url}}'">{{prevpage.title}}</button>
     {% endunless %}
     {% unless forloop.last %} 
       {% assign nextpage = sorted_pages[forloop.index] %}
-	<button name="button" onclick="{{ site.baseurl }}{{nextpage.url}}">{{nextpage.title}}</button>
+	<button name="button" onclick="document.location='{{ site.baseurl }}{{nextpage.url}}'">{{nextpage.title}}</button>
     {% endunless %}
   {% endif %}
   {% assign prevpage = node %}
