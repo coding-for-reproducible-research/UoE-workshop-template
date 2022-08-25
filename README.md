@@ -20,3 +20,9 @@ Workshops are organised into 2-3 hour sessions of learning activity, where a wor
 
 This template was developed with help from this [tutorial](https://github.com/evanwill/go-go-ghpages). It was inspired and influenced by  [The Carpentries' template](https://github.com/carpentries/workshop-template) for creating websites for workshops.
 
+
+## NEWS
+
+### 25/08/2022
+
+Update to _config.yml file and includes/navbar.html to make links more robust.
