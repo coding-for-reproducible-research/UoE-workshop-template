@@ -15,4 +15,5 @@ Our goal is to support you to develop your programming skill sets to enable you 
 - Be respectful of different viewpoints and experiences.
 - Gracefully accept constructive criticism.
 - Be patient if there are technical glitches. While we know something about how to use computers we are not immune to internet or hardware issues.
+
 Thank you for taking the time to read our Code of Conduct. We look forward to welcoming you on to our courses.
