@@ -8,7 +8,9 @@ title: Course Information
 
 Insert description paragraph
 
-## This course will cover:  
+## Course objectives
+
+This course will covering the following:
 
 - Bullet point learning objectives
 
@@ -16,21 +18,21 @@ Insert description paragraph
 
 Specify as either essential or preferable, and try to relate to courses we provide and their learning objectives.
 
-## Workshop Format
+## Workshop format
 
-This a hybrid workshop run over XX sessions. The [schedule can be found here](https://uniexeterrse.github.io/UoE-workshop-template/schedule.html). 
+This a hybrid workshop run over XX sessions. The [schedule can be found here](https://uniexeterrse.github.io/UoE-workshop-template/schedule.html).
 
 ## Upcoming course dates
 
-| Dates | Time  | Venue | Sign up link |
-|--- |--- |--- | --- |
-| TBC |  | | |
+| Session name | Dates | Time  | Venue | Sign up link |
+| --- |--- |--- |--- | --- |
+| Session 1 | TBC | TBC | TBC | TBC |
 
 Registration for this course is handled by [University of Exeter Researcher Development](https://www.exeter.ac.uk/research/doctoralcollege/early-career-researchers/traininganddevelopment/rdprogramme/)
 
 ## Set-up instructions for attendees
 
-If you have registered for this course you can find the [instructions for setting up your computer here.](https://uniexeterrse.github.io/workshop-template-test/setup.html) 
+If you have registered for this course you can find the [instructions for setting up your computer here.](https://uniexeterrse.github.io/workshop-template-test/setup.html)
 
 ## Start course
 
@@ -42,14 +44,19 @@ On completion of these course you will be invited to join a network of other par
 
 ## Feedback
 
-Please remember to complete a feedback survey. Our workshops are under continual review and your experiences, suggestions and criticism are invaluable for shaping the diretcion of this initiative. This is especially important if you complete the materials in your own time as it enables us to measure impact. If you have ideas on other courses you would like to see then please contact Eilis Hannon e.j.hannon@exeter.ac.uk.
+Please remember to complete a feedback survey. Our workshops are under continual review and your experiences, suggestions and criticism are invaluable for shaping the direction of this initiative. This is especially important if you complete the materials in your own time as it enables us to measure impact. If you have ideas on other courses you would like to see then please contact Eilis Hannon: <E.J.hannon@exeter.ac.uk>.
 
 ## Join us
 
-If you are interested in becoming part of our community of workshop helpers, leaders and developers please contact E.J.Hannon@exeter.ac.uk.
+If you are interested in becoming part of our community of workshop helpers, leaders and developers please contact Eilis Hannon: <E.J.Hannon@exeter.ac.uk>.
 
 ## Acknowledgements
 
-This course was adapted from XXX and has been developed by the University of Exeter Research Software Engineering Group and [a team of generous volunteers](https://uniexeterrse.github.io/UoE-workshop-template/acknowledgements.html) who are anthuastic about sharing their skills with the wider research community. It;s provision is dependent on the time of these volunteers. If you have benefited in any way from this course and want to support it's long term sustainablity then please take the time to complete our feedback survey, recommend it to your collegues, and enthuse about it to your senior leadership team. 
+This course was adapted from XXX and has been developed by the University of Exeter's Research Software Engineering Group and [a team of generous volunteers](https://uniexeterrse.github.io/UoE-workshop-template/acknowledgements.html) who are enthusiastic about sharing their skills with the wider research community. Its provision is dependent on the time of these volunteers. If you have benefitted in any way from this course and want to support its long term sustainability then please take the time to complete our feedback survey, recommend it to your colleagues, and enthuse about it to your senior leadership team.
 
-This workshop is brought to you by the University of Exeter Research Software Engineering Group, [University of Exeter Institute of Data Science and Artificial Intelligence](https://www.exeter.ac.uk/research/idsai/), [University of Exeter Researcher Development](https://www.exeter.ac.uk/research/doctoralcollege/early-career-researchers/traininganddevelopment/rdprogramme/) and the [University of Exeter Doctoral College](https://www.exeter.ac.uk/research/doctoralcollege/).
+This workshop is brought to you by:
+
+- The University of Exeter [Research Software Engineering Group](https://www.exeter.ac.uk/research/idsai/team/researchsoftwareengineers/)
+- The [Institute of Data Science and Artificial Intelligence](https://www.exeter.ac.uk/research/idsai/)
+- The University of Exeter [Researcher Development Programme](https://www.exeter.ac.uk/research/doctoralcollege/early-career-researchers/traininganddevelopment/rdprogramme/)
+- The University of Exeter [Doctoral College](https://www.exeter.ac.uk/research/doctoralcollege/)
