@@ -1,5 +1,9 @@
 <a rel="license" href=""><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
 
+# Repository Archived and Outdated
+
+This repository is no longer maintained and has been succeeded by the new [CfRR website](https://coding-for-reproducible-research.github.io/CfRR_Courses/home_page.html). This template is the old format used by the CfRR training initiative.
+
 # Coding for Reproducible Research Workshop Template
 
 This repository is the template for creating websites for workshops that are part of the Coding for Reproducible Research initiative at the University of Exeter.  
